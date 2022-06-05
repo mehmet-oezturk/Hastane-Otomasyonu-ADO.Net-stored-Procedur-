@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlhospital", "sqlhospital\sqlhospital.csproj", "{EF691638-B683-43D8-8E3F-849BB19539F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF691638-B683-43D8-8E3F-849BB19539F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF691638-B683-43D8-8E3F-849BB19539F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF691638-B683-43D8-8E3F-849BB19539F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF691638-B683-43D8-8E3F-849BB19539F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD563F61-D9C5-4BAB-93F1-D617F97F9574}
+	EndGlobalSection
+EndGlobal
